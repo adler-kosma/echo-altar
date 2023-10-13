@@ -5,7 +5,8 @@ import About from './pages/About';
 import Installations from './pages/Installations';
 import Sounds from './pages/Sounds';
 import Releases from './pages/Releases';
-import background from './img/adler.jpg'
+import background from './img/adler.jpg';
+import Contact from './pages/Contact'
 
 
 
@@ -25,6 +26,9 @@ export default function App () {
           </Route>
           <Route path="/releases">
             <Releases />
+          </Route>
+          <Route path="/contact">
+            <Contact />
           </Route>
         </div>
       </div>

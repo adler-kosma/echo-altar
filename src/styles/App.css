@@ -142,11 +142,29 @@ top: 50px;
 z-index: 1000;
 width: 85%;
 height: 94%;
-background: linear-gradient(90deg, red 50%, rgba(232, 34, 34, 1) 70%, rgb(28%, 6%, 11%) 90%);
 background: blue;
+background: linear-gradient(90deg, blue 50%, rgb(55, 79, 154) 70%, rgb(94, 89, 255) 80%);
 opacity: 95%;
 overflow: scroll;
 box-shadow: 0px 0px 10px black;
+}
+
+.contactBox{
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  top: 40%;
+  width: 80%;
+  height:13%;
+  background: blue;
+  background: linear-gradient(90deg, blue 50%, rgb(55, 79, 154) 70%, rgb(94, 89, 255) 80%);
+  opacity: 95%;
+  overflow: scroll;
+  box-shadow: 0px 0px 10px black;
+  text-align: left;
+  font-size: 2.5vw;
+  left:20%;
+  margin-right:5px;
 }
 
 box:hover{
@@ -223,7 +241,6 @@ color: black;
 }
 
 .text-body {
-color: white;
 position: relative;
 top: -10px;
 padding: 0px;
@@ -268,7 +285,7 @@ height: 100%;
 @media screen and (max-width: 1000px) {
 
 h1 {
-  font-size: 13vw;
+  font-size: 9vw;
 }
 
 .hide1 {

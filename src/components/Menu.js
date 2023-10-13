@@ -6,7 +6,8 @@ function Menu() {
         {label: 'about', path: '/about'},
         {label: 'installation', path: '/installations'},
         {label: 'sound', path: '/sounds'},
-        {label: 'releases', path: '/releases'}
+        {label: 'releases', path: '/releases'},
+        {label: 'contact', path: '/contact'},
     ];
 
     const renderedLinks = links.map((link) => {
