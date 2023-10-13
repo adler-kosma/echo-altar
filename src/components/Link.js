@@ -4,6 +4,7 @@ import NavigationContext from "../context/navigation";
 function Link({to, children}) {
     const { navigate } = useContext(NavigationContext);
 
+
     const handleClick = (event) => {
         if (event.metaKey || event.ctrlKey) {
             return;
@@ -14,7 +15,7 @@ function Link({to, children}) {
 
     }
     return (
-    <a href={to} onClick={handleClick}>
+    <a href={to} onClick={handleClick} classNames="">
         {children}
     </a>
     );

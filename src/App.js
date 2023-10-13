@@ -1,22 +1,29 @@
 import './styles/App.css';
-import Link from './components/Link';
 import Route from './components/Route';
+import Menu from './components/Menu';
 import About from './pages/About';
-import Works from './pages/Works';
+import Installations from './pages/Installations';
+import Sounds from './pages/Sounds';
+import Releases from './pages/Releases';
 
 
 
 export default function App () {
   return (
       <div>
-        <h1><Link to="/about">About</Link></h1>
-        <h1><Link to="/works">Works</Link></h1>
+        <Menu />
         <div>
           <Route path="/about">
             <About />
           </Route>
-          <Route path="/works">
-            <Works />
+          <Route path="/installations">
+            <Installations />
+          </Route>
+          <Route path="/sounds">
+            <Sounds />
+          </Route>
+          <Route path="/releases">
+            <Releases />
           </Route>
         </div>
       </div>
