@@ -14,8 +14,8 @@ function About() {
 
     return (
         <div className="box">
-            <p className="text-header" style={{fontSize: "1.5vw"}}>{textHeader}</p>
-            <p className="text-body" style={{fontSize: "1vw"}}>{textBody}</p>
+            <p className="text-title" style={{color: "black"}}>{textHeader}</p>
+            <p className="text-body" style={{}}>{textBody}</p>
             <img src={AdlerImage} alt="Pic of Adler" style={{width:"467px"}} ></img>
             <p className="text-body">Credits:</p>
             <p className="text-body">{textCreditsDesign}</p>

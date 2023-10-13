@@ -5,12 +5,13 @@ import About from './pages/About';
 import Installations from './pages/Installations';
 import Sounds from './pages/Sounds';
 import Releases from './pages/Releases';
+import background from './img/adler.jpg'
 
 
 
 export default function App () {
   return (
-      <div>
+      <div style={{ backgroundImage: `url(${background})`, height: "492px"}}>
         <Menu />
         <div>
           <Route path="/about">
