@@ -1,0 +1,11 @@
+{
+    "short_name": "",
+    "name": "",
+    "icons": [
+      {
+        "src": "favico.ico",
+        "type": "image/x-icon",
+        "sizes": "500x500"
+      }
+    ]
+}
