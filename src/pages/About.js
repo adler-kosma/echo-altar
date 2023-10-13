@@ -16,12 +16,12 @@ function About() {
         <div className="box">
             <p className="text-title" style={{color: "black"}}>{textHeader}</p>
             <p className="text-body" style={{}}>{textBody}</p>
-            <img src={AdlerImage} alt="Pic of Adler" style={{width:"467px"}} ></img>
+            <div className="img" style={{}}>
+                <img src={AdlerImage} alt="Pic of Adler" style={{width:"467px"}} ></img>
+            </div>
             <p className="text-body">Credits:</p>
             <p className="text-body">{textCreditsDesign}</p>
             <p className="text-body">{textCreditsCode}</p>
-            <p className="text-body">Contact:</p>
-            <p className="text-body">{textContact}</p>
             
         </div>
     );

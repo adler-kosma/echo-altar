@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "./Link";
 
 function WorksComponent({projectName, durata, format, link, linkName, description}) {
   return (
