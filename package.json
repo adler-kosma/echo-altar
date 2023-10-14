@@ -1,6 +1,6 @@
 {
-  "name": "echo_altar",
-  "homepage": "https://adler-kosma.github.io/echo_altar/",
+  "name": "echo-altar",
+  "homepage": "https://adler-kosma.github.io/echo-altar/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
