@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/echo-altar/static/css/main.142b5509.css",
-    "main.js": "/echo-altar/static/js/main.cc08ea61.js",
+    "main.css": "/echo-altar/static/css/main.ee2f8bf3.css",
+    "main.js": "/echo-altar/static/js/main.e88ee3f4.js",
     "static/js/787.1fe3738c.chunk.js": "/echo-altar/static/js/787.1fe3738c.chunk.js",
     "static/media/Rois-Medium.svg": "/echo-altar/static/media/Rois-Medium.67b7149f4ce5a620c128.svg",
+    "static/media/unusually_lost_bits.jpg": "/echo-altar/static/media/unusually_lost_bits.70b3f862d1209d9afad0.jpg",
     "static/media/saga01.png": "/echo-altar/static/media/saga01.edd7952fecac873f4d6c.png",
+    "static/media/volvm_2_pieces.jpg": "/echo-altar/static/media/volvm_2_pieces.90ee4c1e5252ff086f47.jpg",
     "static/media/Rois-Medium.ttf": "/echo-altar/static/media/Rois-Medium.e3d358f11fc8fde8dbb8.ttf",
     "static/media/Rois-Medium.woff": "/echo-altar/static/media/Rois-Medium.711d2ace8b121882222e.woff",
     "static/media/Rois-Medium.eot": "/echo-altar/static/media/Rois-Medium.2fac78eaa92a67eeb249.eot",
     "index.html": "/echo-altar/index.html",
-    "main.142b5509.css.map": "/echo-altar/static/css/main.142b5509.css.map",
-    "main.cc08ea61.js.map": "/echo-altar/static/js/main.cc08ea61.js.map",
+    "main.ee2f8bf3.css.map": "/echo-altar/static/css/main.ee2f8bf3.css.map",
+    "main.e88ee3f4.js.map": "/echo-altar/static/js/main.e88ee3f4.js.map",
     "787.1fe3738c.chunk.js.map": "/echo-altar/static/js/787.1fe3738c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.142b5509.css",
-    "static/js/main.cc08ea61.js"
+    "static/css/main.ee2f8bf3.css",
+    "static/js/main.e88ee3f4.js"
   ]
 }
