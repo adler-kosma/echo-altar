@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="img-background" style={{ backgroundImage: `url(${background})`, height: "1000px", backgroundPosition: "right", backgroundRepeat: "no-repeat"}}>
       <div className='echo-altar-header'>Echo & Altar</div>
+      <div className='echo-altar-sub-header'>R e c o r d s</div>
 
       <div className='container' style={{top: "100%"}}>
         <section className='section'>

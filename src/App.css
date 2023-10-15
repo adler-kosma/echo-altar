@@ -58,3 +58,13 @@
   white-space: nowrap;
   text-transform: uppercase;
 }
+
+.echo-altar-sub-header{
+  font-family: 'rois';
+  position: relative;
+  top: 51%;
+  text-align: center;
+  font-size: 3vw;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
