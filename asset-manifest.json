@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/echo-altar/static/css/main.d8060e2c.css",
-    "main.js": "/echo-altar/static/js/main.72ee3daa.js",
+    "main.css": "/echo-altar/static/css/main.efa32ee9.css",
+    "main.js": "/echo-altar/static/js/main.9ac6d6ca.js",
     "static/js/787.1fe3738c.chunk.js": "/echo-altar/static/js/787.1fe3738c.chunk.js",
     "static/media/Rois-Medium.svg": "/echo-altar/static/media/Rois-Medium.67b7149f4ce5a620c128.svg",
     "static/media/unusually_lost_bits.jpg": "/echo-altar/static/media/unusually_lost_bits.70b3f862d1209d9afad0.jpg",
@@ -11,12 +11,12 @@
     "static/media/Rois-Medium.woff": "/echo-altar/static/media/Rois-Medium.711d2ace8b121882222e.woff",
     "static/media/Rois-Medium.eot": "/echo-altar/static/media/Rois-Medium.2fac78eaa92a67eeb249.eot",
     "index.html": "/echo-altar/index.html",
-    "main.d8060e2c.css.map": "/echo-altar/static/css/main.d8060e2c.css.map",
-    "main.72ee3daa.js.map": "/echo-altar/static/js/main.72ee3daa.js.map",
+    "main.efa32ee9.css.map": "/echo-altar/static/css/main.efa32ee9.css.map",
+    "main.9ac6d6ca.js.map": "/echo-altar/static/js/main.9ac6d6ca.js.map",
     "787.1fe3738c.chunk.js.map": "/echo-altar/static/js/787.1fe3738c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8060e2c.css",
-    "static/js/main.72ee3daa.js"
+    "static/css/main.efa32ee9.css",
+    "static/js/main.9ac6d6ca.js"
   ]
 }
